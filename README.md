@@ -13,6 +13,8 @@ Download `GageMate_Setup_1.3.0.exe` from the release assets for version 1.3.0. F
 
 GageMate is currently distributed as a Windows installer. No separate Python installation is required for the packaged application.
 
+Windows 11 is the only OS tested and officially supported. This does require an executable install, which may be limited on Company IT issued PCs.
+
 > Download installers only from the official release page. Verify the publisher and any provided SHA-256 checksum before running the installer.
 
 ## Features
