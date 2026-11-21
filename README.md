@@ -27,6 +27,8 @@ Windows 11 is the only OS tested and officially supported. This does require an 
 - **Reports and charts:** Interactive Plotly charts and report export options.
 - **CSV workflow:** Import measurement data from CSV files for analysis.
 
+Full video demonstrations are available on ArcPath Automation & Design's Youtube Channel here: https://www.youtube.com/playlist?list=PLScm9tk2Fvpc
+
 Available options and calculations may vary by release. Review the release notes for changes.
 
 ## Getting started
