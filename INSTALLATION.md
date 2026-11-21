@@ -1,5 +1,7 @@
 # Installing GageMate on Windows
 
+For detailed installtion "how to" guidance and troubleshoot, please refer to our documentation page: https://braml22813.github.io/GageMate-Docs/
+
 ## Before installation
 
 - Use a supported Windows computer. The installer is intended for Windows; specific tested Windows versions and hardware requirements should be confirmed in the release notes.
