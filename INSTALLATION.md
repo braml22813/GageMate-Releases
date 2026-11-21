@@ -1,6 +1,9 @@
 # Installing GageMate on Windows
 
-For detailed installtion "how to" guidance and troubleshoot, please refer to our documentation page: https://braml22813.github.io/GageMate-Docs/
+For detailed installtion "how to" guidance and troubleshoot, please refer to our documentation page: 
+https://braml22813.github.io/GageMate-Docs/
+
+This hosts the comprehensive install and error handling documentation to date.
 
 ## Before installation
 
